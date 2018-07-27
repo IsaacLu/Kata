@@ -1,2 +1,2 @@
 # Kata
-Kata codes
+Kata codes with Codewars
