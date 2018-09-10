@@ -1,0 +1,2 @@
+D:\Exercise\Kata\Kata_No.33_Find_the_odd_int\FindTheOddIntTest\obj\Debug\FindTheOddIntTest.csprojResolveAssemblyReference.cache
+D:\Exercise\Kata\Kata_No.33_Find_the_odd_int\FindTheOddIntTest\obj\Debug\FindTheOddIntTest.csproj.CoreCompileInputs.cache
