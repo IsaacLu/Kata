@@ -1,0 +1,9 @@
+D:\Exercise\Kata_Practice\Kata\Kata No.34 Persistent Bugger\Kata No.34 Persistent Bugger\bin\Debug\netstandard2.0\Kata No.34 Persistent Bugger.deps.json
+D:\Exercise\Kata_Practice\Kata\Kata No.34 Persistent Bugger\Kata No.34 Persistent Bugger\bin\Debug\netstandard2.0\Kata No.34 Persistent Bugger.dll
+D:\Exercise\Kata_Practice\Kata\Kata No.34 Persistent Bugger\Kata No.34 Persistent Bugger\bin\Debug\netstandard2.0\Kata No.34 Persistent Bugger.pdb
+D:\Exercise\Kata_Practice\Kata\Kata No.34 Persistent Bugger\Kata No.34 Persistent Bugger\obj\Debug\netstandard2.0\Kata No.34 Persistent Bugger.csprojResolveAssemblyReference.cache
+D:\Exercise\Kata_Practice\Kata\Kata No.34 Persistent Bugger\Kata No.34 Persistent Bugger\obj\Debug\netstandard2.0\Kata No.34 Persistent Bugger.csproj.CoreCompileInputs.cache
+D:\Exercise\Kata_Practice\Kata\Kata No.34 Persistent Bugger\Kata No.34 Persistent Bugger\obj\Debug\netstandard2.0\Kata No.34 Persistent Bugger.AssemblyInfoInputs.cache
+D:\Exercise\Kata_Practice\Kata\Kata No.34 Persistent Bugger\Kata No.34 Persistent Bugger\obj\Debug\netstandard2.0\Kata No.34 Persistent Bugger.AssemblyInfo.cs
+D:\Exercise\Kata_Practice\Kata\Kata No.34 Persistent Bugger\Kata No.34 Persistent Bugger\obj\Debug\netstandard2.0\Kata No.34 Persistent Bugger.dll
+D:\Exercise\Kata_Practice\Kata\Kata No.34 Persistent Bugger\Kata No.34 Persistent Bugger\obj\Debug\netstandard2.0\Kata No.34 Persistent Bugger.pdb
