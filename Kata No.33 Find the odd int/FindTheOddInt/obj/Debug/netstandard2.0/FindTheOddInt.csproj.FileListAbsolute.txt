@@ -1,9 +1,0 @@
-D:\Exercise\Kata\Kata_No.33_Find_the_odd_int\FindTheOddInt\bin\Debug\netstandard2.0\FindTheOddInt.deps.json
-D:\Exercise\Kata\Kata_No.33_Find_the_odd_int\FindTheOddInt\bin\Debug\netstandard2.0\FindTheOddInt.dll
-D:\Exercise\Kata\Kata_No.33_Find_the_odd_int\FindTheOddInt\bin\Debug\netstandard2.0\FindTheOddInt.pdb
-D:\Exercise\Kata\Kata_No.33_Find_the_odd_int\FindTheOddInt\obj\Debug\netstandard2.0\FindTheOddInt.csprojResolveAssemblyReference.cache
-D:\Exercise\Kata\Kata_No.33_Find_the_odd_int\FindTheOddInt\obj\Debug\netstandard2.0\FindTheOddInt.csproj.CoreCompileInputs.cache
-D:\Exercise\Kata\Kata_No.33_Find_the_odd_int\FindTheOddInt\obj\Debug\netstandard2.0\FindTheOddInt.AssemblyInfoInputs.cache
-D:\Exercise\Kata\Kata_No.33_Find_the_odd_int\FindTheOddInt\obj\Debug\netstandard2.0\FindTheOddInt.AssemblyInfo.cs
-D:\Exercise\Kata\Kata_No.33_Find_the_odd_int\FindTheOddInt\obj\Debug\netstandard2.0\FindTheOddInt.dll
-D:\Exercise\Kata\Kata_No.33_Find_the_odd_int\FindTheOddInt\obj\Debug\netstandard2.0\FindTheOddInt.pdb
