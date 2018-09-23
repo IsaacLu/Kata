@@ -1,5 +1,5 @@
 ﻿using System;
-using Kata_No._34_Persistent_Bugger;
+using PersistentBugger;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 
 namespace PersistentBugger.Test
